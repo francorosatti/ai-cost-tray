@@ -1,0 +1,7 @@
+{
+  "uuid": "ai-cost-tray@francorosatti",
+  "name": "AI Cost Tray",
+  "description": "Shows today's AI coding-tool spend (via ccusage) in the top bar.",
+  "shell-version": ["46"],
+  "url": "https://github.com/francorosatti/ai-cost-tray"
+}
